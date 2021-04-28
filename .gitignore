@@ -1,0 +1,10 @@
+node_modules/
+mochawesome-report
+cypress/reports/cucumber-report.html
+cypress/reports/index.html
+cypress/reports/index.json
+cypress/reports/cucumber-json/**
+cypress/videos
+files
+.DS_Store
+~$ypress.docx
